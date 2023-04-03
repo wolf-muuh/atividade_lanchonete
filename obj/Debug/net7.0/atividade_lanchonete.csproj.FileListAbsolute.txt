@@ -1,0 +1,15 @@
+C:\Users\54750759805\Desktop\atividade_lanchonete\bin\Debug\net7.0\atividade_lanchonete.exe
+C:\Users\54750759805\Desktop\atividade_lanchonete\bin\Debug\net7.0\atividade_lanchonete.deps.json
+C:\Users\54750759805\Desktop\atividade_lanchonete\bin\Debug\net7.0\atividade_lanchonete.runtimeconfig.json
+C:\Users\54750759805\Desktop\atividade_lanchonete\bin\Debug\net7.0\atividade_lanchonete.dll
+C:\Users\54750759805\Desktop\atividade_lanchonete\bin\Debug\net7.0\atividade_lanchonete.pdb
+C:\Users\54750759805\Desktop\atividade_lanchonete\obj\Debug\net7.0\atividade_lanchonete.csproj.AssemblyReference.cache
+C:\Users\54750759805\Desktop\atividade_lanchonete\obj\Debug\net7.0\atividade_lanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\atividade_lanchonete\obj\Debug\net7.0\atividade_lanchonete.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\atividade_lanchonete\obj\Debug\net7.0\atividade_lanchonete.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\atividade_lanchonete\obj\Debug\net7.0\atividade_lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\atividade_lanchonete\obj\Debug\net7.0\atividade_lanchonete.dll
+C:\Users\54750759805\Desktop\atividade_lanchonete\obj\Debug\net7.0\refint\atividade_lanchonete.dll
+C:\Users\54750759805\Desktop\atividade_lanchonete\obj\Debug\net7.0\atividade_lanchonete.pdb
+C:\Users\54750759805\Desktop\atividade_lanchonete\obj\Debug\net7.0\atividade_lanchonete.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\atividade_lanchonete\obj\Debug\net7.0\ref\atividade_lanchonete.dll
